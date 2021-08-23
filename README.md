@@ -1,4 +1,4 @@
-# Generando Arte Artificial con GAN's - RIIAA 2020 Summer School
+# Generando Arte Artificial con GAN's - RIIAA 2021 Summer School
 
 ## Introducción
 
