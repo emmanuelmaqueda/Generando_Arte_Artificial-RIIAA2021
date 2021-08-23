@@ -39,7 +39,7 @@ CelebFaces Attributes Dataset (CelebA) es un conjunto de datos de atributos faci
 
 [Descargar](https://turing.iimas.unam.mx/~ivanvladimir/gans/celeba.zip)
 
-<b> * Al tener descargado el archivo comprimido debe subirse dicho archivo a su Google Drive personal (se debe crear una carpeta llamada en el directorio raíz 'data_tutorial' con ambas notebooks que se encuentran en el directorio './notebooks' de este repositorio y el archivo comprimido del dataset elegido) </b>
+<b> * Al tener descargado el archivo comprimido debe subirse dicho archivo a su Google Drive personal (se debe crear una carpeta llamada 'data_tutorial' en el directorio raíz  con las dos notebooks que se encuentran en el directorio './notebooks' de este repositorio y el archivo comprimido del dataset elegido) </b>
 
 <b> * Tener en cuenta que se requiere alrededor de 1.5 GB libres en su Google Drive personal </b>
 
